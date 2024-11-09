@@ -8,5 +8,7 @@ Automated Link Access: Attempts to access each unsubscribe link to trigger the u
 Logging: Saves all unsubscribe links to a links.txt file for reference.
 # Requirements
 --> Python 3.x.
+
 --> IMAP enabled in your email account.
+
 --> Email account credentials saved in a .env file.
