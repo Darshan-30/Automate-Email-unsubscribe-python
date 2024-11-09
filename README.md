@@ -7,6 +7,6 @@ HTML Parsing for Unsubscribe Links: Extracts unsubscribe links from HTML email c
 Automated Link Access: Attempts to access each unsubscribe link to trigger the unsubscription process.
 Logging: Saves all unsubscribe links to a links.txt file for reference.
 # Requirements
---> Python 3.x
---> IMAP enabled in your email account
---> Email account credentials saved in a .env file
+--> Python 3.x.
+--> IMAP enabled in your email account.
+--> Email account credentials saved in a .env file.
